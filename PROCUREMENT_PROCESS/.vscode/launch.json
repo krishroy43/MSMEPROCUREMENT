@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "PROCUREMENT_PROCESS_PP8_3_PP8_5_PP8_6_PP8_7",
+            "startupObjectId": 27,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "schemaUpdateMode": "Synchronize"
+        }
+    ]
+}
